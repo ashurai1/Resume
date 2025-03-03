@@ -1,2 +1,7 @@
-# Resume
-This repository contains my latest resume, highlighting my skills, education, and experience in IT.
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://x.com/itzashwini2220).
+
+## License
+
+MIT
